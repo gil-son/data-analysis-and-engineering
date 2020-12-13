@@ -1,6 +1,4 @@
-# Data-analysis-and-engineering by cate
-Data analysis and engineering by categories and periods
-
+# Data analysis and engineering by categories and periods
 
 ![data-analysis-and-engineering](https://media.giphy.com/media/joP6BVkgO8P6biAbz5/giphy.gif)
 
